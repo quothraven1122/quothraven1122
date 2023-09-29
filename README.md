@@ -11,8 +11,7 @@
 <br>
 
 ### 📌Ongoing Projects📌
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quothraven1122&repo=2023-BirdieBuddy)](https://github.com/quothraven1122/2023-BirdieBuddy) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quothraven1122&repo=2023-2-Web-FE-Study)](https://github.com/quothraven1122/2023-2-Web-FE-Study) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quothraven1122&repo=BJ-Notes)](https://github.com/quothraven1122/BJ-Notes) 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quothraven1122&repo=2023-BirdieBuddy)](https://github.com/quothraven1122/2023-BirdieBuddy) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quothraven1122&repo=2023-2-Web-FE-Study)](https://github.com/quothraven1122/2023-2-Web-FE-Study) 
 <br>
 
 ### 📑Summary📑  
